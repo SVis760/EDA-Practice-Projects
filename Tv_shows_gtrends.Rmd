@@ -1,8 +1,6 @@
 ---
 title: "Google Trends Research project"
-output:
-  html_document:
-    keep_md: true
+output: rmarkdown::github_document
 ---
 
 Here is some practice project about working with ggtrends. 
