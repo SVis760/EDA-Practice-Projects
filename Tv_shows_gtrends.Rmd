@@ -1,10 +1,11 @@
 ---
 title: "Google Trends Research project"
 output:
-  rmarkdown::github_document
+  html_document:
+    keep_md: true
 ---
 
-Here's is some practice project about working with ggtrends. 
+Here is some practice project about working with ggtrends. 
 
 For this mini piece, I'm just wondering if a few of my favorite shows that have the same genre/type such as "Vikings", "The Witcher", and "The Last Kingdom" spike together in popularity as people tend to look for similar shows when they are done binge-watching one. Most likely the spikes will also be visible at each shows release of a new season.
 
