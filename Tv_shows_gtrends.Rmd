@@ -1,8 +1,10 @@
 ---
 title: "Google Trends Research project"
 output: 
-  md_document:
-    variant: markdown_github
+  github_document:
+    fig_width: 15
+    fig_height: 5
+    dev: jpeg
 ---
 
 Here is some practice project about working with ggtrends. 
