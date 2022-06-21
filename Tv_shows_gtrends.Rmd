@@ -1,8 +1,7 @@
 ---
 title: "Google Trends Research project"
 output:
-  html_document:
-    df_print: paged
+  rmarkdown::github_document
 ---
 
 Here's is some practice project about working with ggtrends. 
